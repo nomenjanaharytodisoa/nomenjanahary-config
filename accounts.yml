@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs "
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@nomenjanahary.com"
+  onCallSupport:
+    - (261) 555-1234
+    - (261) 523-1345

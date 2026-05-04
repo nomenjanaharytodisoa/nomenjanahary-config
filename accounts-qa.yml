@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs "
+  contactDetails:
+    name: "Rakoto Doe - QA Lead"
+    email: "rakoto@nomenjanahary.com"
+  onCallSupport:
+    - (261) 555-1234
+    - (261) 523-1345

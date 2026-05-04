@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+accounts:
+  message: "Welcome to EazyBank accounts related PROD APIs "
+  contactDetails:
+    name: "Beloha Doe - Product owner"
+    email: "todisoa@nomenjanahary.com"
+  onCallSupport:
+    - (261) 555-1234
+    - (261) 523-1345

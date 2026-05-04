@@ -1,0 +1,15 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to nomenjanahary cards related QA APIs "
+  contactDetails:
+    name: "Jonah - Quality Lead"
+    email: "jonah@nomenjanahary.com"
+  onCallSupport:
+    - (261) 333-658
+    - (261) 854-777
+spring:
+  config:
+    activate:
+      on-profile: "qa"

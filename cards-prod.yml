@@ -1,0 +1,15 @@
+build:
+  version: "1.2"
+
+cards:
+  message: "Welcome to nomenjanahary cards related PROD APIs "
+  contactDetails:
+    name: "Beloha - Product owner"
+    email: "beloha@nomenjanahary.com"
+  onCallSupport:
+    - (261) 987-254
+    - (261) 965-888
+spring:
+  config:
+    activate:
+      on-profile: "prod"

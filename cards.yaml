@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to nomenjanahary cards related local APIs "
+  contactDetails:
+    name: "Rabenaivo - Developer"
+    email: "rabenaivo@nomenjanahary.com"
+  onCallSupport:
+    - (261) 325-9854
+    - (261) 587-6547

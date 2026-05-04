@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to nomenjanahary loans service PROD APIs"
+  contactDetails:
+    name: "bifa loha - Product owner"
+    email: "bifaloha@nomenjanahary.com"
+  onCallSupport:
+    - (+33) 0685478954
+    - (+33) 0688454477

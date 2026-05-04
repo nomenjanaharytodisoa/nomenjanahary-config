@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+loans:
+  message: "Welcome to nomenjanahary loans service Developer APIs"
+  contactDetails:
+    name: "Todisoa - Lead developer"
+    email: "todisoa@nomenjanahary.com"
+  onCallSupport:
+    - (+33) 0669998877
+    - (+33) 0788774455

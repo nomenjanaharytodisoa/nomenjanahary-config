@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to nomenjanahary loans service QA APIs"
+  contactDetails:
+    name: "rakoto beloha - Quality lead"
+    email: "bbbbb@nomenjanahary.com"
+  onCallSupport:
+    - (+33) 0665478958
+    - (+33) 0789587488
