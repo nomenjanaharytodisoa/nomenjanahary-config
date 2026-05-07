@@ -2,7 +2,7 @@ build:
   version: "1.2"
 
 cards:
-  message: "Welcome to nomenjanahary cards related PRD APIs "
+  message: "Welcome to nomenjanahary cards related Production APIs "
   contactDetails:
     name: "Beloha - Product owner"
     email: "beloha@nomenjanahary.com"
