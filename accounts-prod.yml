@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Welcome to EazyBank accounts related productions APIs "
+  message: "Welcome to EazyBank accounts related PRD APIs "
   contactDetails:
     name: "Beloha Doe - Product owner"
     email: "{cipher}b9d07216554d8e4d1b3994be19648627f8e54a1ce760de3755df549523eb46b304befefa0c05edbdda064b9265fe3eff"
