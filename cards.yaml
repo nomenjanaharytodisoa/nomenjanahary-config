@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to nomenjanahary cards related ssss APIs "
+  message: "Welcome to nomenjanahary cards related local APIs "
   contactDetails:
     name: "Rabenaivo - Developer"
     email: "rabenaivo@nomenjanahary.com"
