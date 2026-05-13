@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 loans:
-  message: "Welcome to nomenjanahary loans service local APIs"
+  message: "Welcome to nomenjanahary loans service developer APIs"
   contactDetails:
     name: "Todisoa - Lead developer"
     email: "todisoa@nomenjanahary.com"
