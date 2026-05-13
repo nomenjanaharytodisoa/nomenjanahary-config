@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to nomenjanahary loans service PRD APIs"
+  message: "Welcome to nomenjanahary loans service PRODUCTION APIs"
   contactDetails:
     name: "bifa loha - Product owner"
     email: "bifaloha@nomenjanahary.com"
